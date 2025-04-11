@@ -22,16 +22,16 @@ Das Projekt entstand im Rahmen meiner **Abschlussarbeit an der Berufsmaturitäts
 
 ## 🧮 Formel
 
-Die Cosinus-Ähnlichkeit zweier Vektoren **A** und **B** berechnet sich wie folgt:
+Die Cosinus-Ähnlichkeit zweier Vektoren **$A$** und **$B$** berechnet sich wie folgt:
 
-\[
+$$
 \text{similarity} = \frac{A \cdot B}{\|A\| \cdot \|B\|}
-\]
+$$
 
 Dabei ist:
-- \( A \cdot B \) das Skalarprodukt der beiden Vektoren
-- \( \|A\| \) die Norm (Länge) von Vektor A
-- \( \|B\| \) die Norm (Länge) von Vektor B
+- $A \cdot B$ das Skalarprodukt der beiden Vektoren
+- $\|A\|$ die Norm (Länge) von Vektor $A$
+- $\|B\|$ die Norm (Länge) von Vektor $B$
 
 ## 📄 Lizenz
 
